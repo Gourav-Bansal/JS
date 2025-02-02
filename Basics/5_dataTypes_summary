@@ -1,0 +1,10 @@
+// Two types
+//    Primitive and non Primitive(reference type)
+//    # Primitive
+//    7 types -- String,number,boolean,null,undefined,Symbol,BigInt
+
+//    #Reference type
+//    Array,objects,functions
+
+// JS is a damically typed language i.e. in this we do not need to assign variable type
+
